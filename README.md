@@ -11,3 +11,9 @@ Swift UI is apple's brand new UI framework built with declarative swift code.
 
 ```
 ```
+
+# Running app on mac using product catalyst
+
+```
+
+```
