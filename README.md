@@ -16,10 +16,26 @@ Types : Structural, Modular , Procedural
 # Overcome Immutability of struct in SwiftUI
 
 ```
+swift provides special wrapper @state to overcome immutability of structs.
+struct ContentView:View {
+@state var left =1
 ```
 
 # Running app on mac using product catalyst
 
 ```
+project -> target -> mac
+signing & capabilities -> apple ID
+```
 
+# Update Preview
+
+``
+Command + Option + P
+``
+
+# Network Handling
+
+```
+@ObservedObject and @Published can be used along with NetworkManager
 ```
