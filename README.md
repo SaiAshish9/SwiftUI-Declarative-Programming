@@ -39,3 +39,9 @@ Command + Option + P
 ```
 @ObservedObject and @Published can be used along with NetworkManager
 ```
+
+# Custom Fonts
+
+```
+At info.plist , update Fons provided by the application key (for e.g. Pacifico-Regular.ttf)
+```
