@@ -6,7 +6,7 @@ Swift UI is apple's brand new UI framework built with declarative swift code.
 
 ```
 Declarative programming is a paradigm in which programmer defines what needs to be accomplished w/o defining how it needs to be implemented.
-Types: Functional Logic
+Types: Functional , Logic
 
 Imperative programming is a programming paradigm that uses statements that change a program’s state.
 Types : Structural, Modular , Procedural
